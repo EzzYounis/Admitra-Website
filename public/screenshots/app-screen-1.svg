@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960" role="img" aria-label="App screen placeholder 1">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf6ff"/>
+      <stop offset="1" stop-color="#eef0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="960" rx="56" fill="url(#bg1)"/>
+  <rect x="40" y="46" width="460" height="76" rx="22" fill="#ffffff"/>
+  <rect x="60" y="70" width="220" height="24" rx="10" fill="#725DFF" opacity=".7"/>
+  <rect x="40" y="152" width="460" height="292" rx="30" fill="#ffffff"/>
+  <rect x="64" y="180" width="180" height="22" rx="11" fill="#23B7D8" opacity=".8"/>
+  <rect x="64" y="220" width="412" height="16" rx="8" fill="#9BB1D1" opacity=".6"/>
+  <rect x="64" y="248" width="320" height="16" rx="8" fill="#9BB1D1" opacity=".45"/>
+  <rect x="64" y="292" width="116" height="116" rx="20" fill="#23B7D8" opacity=".25"/>
+  <rect x="194" y="292" width="116" height="116" rx="20" fill="#725DFF" opacity=".2"/>
+  <rect x="324" y="292" width="116" height="116" rx="20" fill="#17336B" opacity=".12"/>
+  <rect x="40" y="478" width="460" height="442" rx="30" fill="#ffffff"/>
+  <rect x="64" y="514" width="360" height="18" rx="9" fill="#17336B" opacity=".15"/>
+  <rect x="64" y="548" width="412" height="14" rx="7" fill="#9BB1D1" opacity=".45"/>
+  <rect x="64" y="572" width="390" height="14" rx="7" fill="#9BB1D1" opacity=".45"/>
+  <rect x="64" y="616" width="412" height="220" rx="24" fill="#F4F8FF"/>
+</svg>

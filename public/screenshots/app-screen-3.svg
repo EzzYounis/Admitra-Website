@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960" role="img" aria-label="App screen placeholder 3">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f8ff"/>
+      <stop offset="1" stop-color="#eef4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="960" rx="56" fill="url(#bg3)"/>
+  <rect x="40" y="46" width="460" height="190" rx="30" fill="#ffffff"/>
+  <rect x="64" y="74" width="180" height="20" rx="10" fill="#17336B" opacity=".2"/>
+  <rect x="64" y="110" width="310" height="16" rx="8" fill="#9BB1D1" opacity=".45"/>
+  <rect x="64" y="150" width="412" height="56" rx="18" fill="#23B7D8" opacity=".24"/>
+  <circle cx="94" cy="178" r="14" fill="#23B7D8"/>
+  <rect x="120" y="170" width="210" height="16" rx="8" fill="#17336B" opacity=".22"/>
+  <rect x="40" y="266" width="460" height="654" rx="30" fill="#ffffff"/>
+  <rect x="64" y="298" width="412" height="164" rx="22" fill="#F4F8FF"/>
+  <rect x="64" y="490" width="196" height="196" rx="24" fill="#725DFF" opacity=".19"/>
+  <rect x="280" y="490" width="196" height="196" rx="24" fill="#23B7D8" opacity=".19"/>
+  <rect x="64" y="716" width="412" height="170" rx="22" fill="#F4F8FF"/>
+  <rect x="84" y="744" width="372" height="14" rx="7" fill="#9BB1D1" opacity=".5"/>
+  <rect x="84" y="770" width="332" height="14" rx="7" fill="#9BB1D1" opacity=".5"/>
+  <rect x="84" y="810" width="132" height="44" rx="14" fill="#17336B" opacity=".18"/>
+</svg>
